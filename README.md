@@ -1,5 +1,5 @@
 # Online Payments Fraud Detection
-<img src="https://github.com/saptarshi418/online-payment-fraud-detection/assets/106703507/38911302-04b6-46b5-aebb-3b2f3d7a74c1" height=300px width=1000px/>
+<img src="https://github.com/saptarshi418/online-payment-fraud-detection/assets/106703507/38911302-04b6-46b5-aebb-3b2f3d7a74c1" height=300px width=800px/>
 
 
 
