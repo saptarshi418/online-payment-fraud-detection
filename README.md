@@ -57,4 +57,4 @@ Below are all the columns from the dataset I’m using here:
 
 - After this I build the Online Payments Fraud Detection Model to predict whether a transaction is fraud or not fraud.
 
-To check the detailed analysis and model building stage step by step [click here](https://github.com/GaurabKundu1/Online-Payments-Fraud-Detection/blob/main/payment_fraud_detection.ipynb) or check the payment_fraud_detection.ipynb file in this repository.
+To check the detailed analysis and model building stage step by step [click here](https://github.com/saptarshi418/online-payment-fraud-detection/blob/main/fraud1.ipynb) or check the payment_fraud_detection.ipynb file in this repository.
