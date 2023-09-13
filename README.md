@@ -1,6 +1,6 @@
 # Online Payments Fraud Detection
 
-![proj3](https://user-images.githubusercontent.com/86102231/221410144-2c07a913-f8d8-4a2f-829d-22749bfce53e.png)
+![proj3](https://github.com/saptarshi418/online-payment-fraud-detection/assets/106703507/38911302-04b6-46b5-aebb-3b2f3d7a74c1)
 
 ## Author [Saptarshi Ghosh](https://www.linkedin.com/in/saptarshi-ghosh-375188234/)
 
